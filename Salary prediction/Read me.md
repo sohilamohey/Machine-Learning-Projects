@@ -1,0 +1,1 @@
+I build a simple linear regession model on salary dataset which is performing well with 94% accuracy.

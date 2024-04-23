@@ -9,12 +9,12 @@ This code performs the following tasks:
 6. Identifies the best model based on accuracy and prints the result.
 
 # Final Results:<b>
-    ## 1. Logistic Regression
+## 1. Logistic Regression
     with accuracy: 85.0%
-    ## 2. Random Forest Model
-    with accuracy: 88.52%
-    ## 3. Gaussian Naive Bayes
-    with Accuracy: 85.25% </b>
+## 2. Random Forest Model
+   with accuracy: 88.52%
+## 3. Gaussian Naive Bayes
+   with Accuracy: 85.25% </b>
 
 ### The best model with accuracy is Random Forest Model with 88.52%
 
@@ -25,7 +25,7 @@ This code performs the following tasks:
 4. trestbps: The person's resting blood pressure (mm Hg on admission to the hospital)
 5. chol: The person's cholesterol measurement in mg/dl
 6. fbs: The person's fasting blood sugar (> 120 mg/dl, 1 = true; 0 = false)
-7. restecg: Resting electrocardiographic measurement (0 = normal, 1 = having ST-T wave abnormality, 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria)
+7. restecg: Resting electrocardiographic measurement (0 = normal, 1 = having ST-T wave abnormality, 2 = showing probable or definite left  entricular hypertrophy by Estes' criteria)
 8. thalach: The person's maximum heart rate achieved
 9. exang: Exercise induced angina (1 = yes; 0 = no)
 10. oldpeak: ST depression induced by exercise relative to rest ('ST' relates to positions on the ECG plot. See more here)

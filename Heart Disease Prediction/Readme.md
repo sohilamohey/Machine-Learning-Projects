@@ -10,10 +10,10 @@
 
 # Final Results:<b>
 ## 1. Logistic Regression
-    with accuracy: 85.0%
+    <b>with accuracy: 85.0%
 ## 2. Random Forest Model
-   with accuracy: 88.52%
+   <b>with accuracy: 88.52%
 ## 3. Gaussian Naive Bayes
-   with Accuracy: 85.25% </b>
+  <b> with Accuracy: 85.25% </b>
 
 # The best model with accuracy is Random Forest Model with 88.52%

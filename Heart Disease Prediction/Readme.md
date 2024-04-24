@@ -1,5 +1,5 @@
 # Heart Disease Prediction
-This code performs the following tasks:
+<b>This code performs the following tasks:
 
 1. Loads the heart disease dataset and prints the columns.
 2. Splits the dataset into features (X) and target variable (y).
@@ -16,4 +16,4 @@ This code performs the following tasks:
 ## 3. Gaussian Naive Bayes
    with Accuracy: 85.25% </b>
 
-### The best model with accuracy is Random Forest Model with 88.52%
+# The best model with accuracy is Random Forest Model with 88.52%

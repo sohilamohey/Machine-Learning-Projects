@@ -13,11 +13,11 @@ Created visualizations to understand the data distribution and identify patterns
 
 #### 4. Model Training:
 <b>
-Logistic Regression: Achieved 90.24% accuracy.
-Random Forest: Achieved 90.24% accuracy.
-Gradient Boosting: Achieved 93.50% accuracy.
-Support Vector Machine: Achieved 93.50% accuracy.
-Model Fine-Tuning: Fine-tuned each model to optimize their performance.
+- Logistic Regression: Achieved 90.24% accuracy.
+- Random Forest: Achieved 90.24% accuracy.
+- Gradient Boosting: Achieved 93.50% accuracy.
+- Support Vector Machine: Achieved 93.50% accuracy.
+- Model Fine-Tuning: Fine-tuned each model to optimize their performance.
 
 #### 5. Model Selection:
 Chose Gradient Boosting as the best model based on its performance, achieving an accuracy of 93.50%.

@@ -18,7 +18,7 @@ Random Forest: Achieved 90.24% accuracy.
 Gradient Boosting: Achieved 93.50% accuracy.
 Support Vector Machine: Achieved 93.50% accuracy.
 Model Fine-Tuning: Fine-tuned each model to optimize their performance.
-</b>
+
 #### 5. Model Selection:
 Chose Gradient Boosting as the best model based on its performance, achieving an accuracy of 93.50%.
 
